@@ -1,0 +1,24 @@
+
+
+
+implement scoreboard
+
+Make them light up the space they about to spawn before they spawn
+reset position after the gameOver screen
+
+Set colliders
+
+Set max amount of shots (and then reload time before the shots come back).
+- add a bullet counter in the corner of the screen
+
+Add a dash for my character for some spice
+
+
+
+
+
+
+
+
+
+
